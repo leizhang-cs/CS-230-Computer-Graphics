@@ -1,0 +1,12 @@
+Besides hierarchy, anti-alasing and refractive shader are implemented.
+
+1. Anti-alasing
+extra-1-AA-case15.txt
+extra-1-AA-case29.txt
+The two cases can be compared with 15.txt and 29.txt.
+The number of samples can be change by modifying "anti_aliasing_samples" in "input.txt" file. The number will be converted to an exact square number and in each grid random resampling is conducted.
+
+2. Refractive shader
+extra-2-1.txt
+extra-2-2.txt
+There is a transparent globe in each scene. In the first case, shadow is enabled and becomes a little soft. The last two parameters of refractive shader is transmittance and reflectivity.
