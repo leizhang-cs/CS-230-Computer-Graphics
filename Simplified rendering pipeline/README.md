@@ -1,4 +1,4 @@
-A simmplified rendering pipeline includes:<br>
+A simmplified rendering pipeline including:<br>
 vertex input -> vertex shader -> clipping -> rasterization (z-buffer, perspective-correct interpolation) -> fragment shader.<br>
 
 With SCons installed
