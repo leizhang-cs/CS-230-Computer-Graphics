@@ -1,4 +1,4 @@
-A backward ray tracer supports:<br>
+A backward ray tracer supporting:<br>
 Phong shader (reflection, refraction), bounding volume hierarchy (BVH), Multisample anti-aliasing (MSAA).<br>
 
 With SCons installed
