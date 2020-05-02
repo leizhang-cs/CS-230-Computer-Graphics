@@ -1,5 +1,5 @@
 A backward ray tracer supporting:<br>
-Phong shader (reflection, refraction), bounding volume hierarchy (BVH), Multisample anti-aliasing (MSAA).<br>
+Phong shader (reflection, refraction), bounding volume hierarchy (BVH), Supersampling anti-aliasing (SSAA).<br>
 
 With SCons installed
 ```bash
